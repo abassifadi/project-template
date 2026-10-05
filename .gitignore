@@ -1,0 +1,14 @@
+# Personal, uncommitted Claude Code files
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
